@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+    The folder in which I run the git init command becomes a git repsoitory.
+    A hidden folder ".git" is created for keeping track of changes.
+    Files are not tracked yet as no staging has been done.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+    Staging area provides the benefit of combining multiple files into a single commit.
