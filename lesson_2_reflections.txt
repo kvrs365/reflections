@@ -17,3 +17,8 @@ How do the diagrams help you visualize the branch structure?
     Helps plan commits and branches clearly.
     Helps organizing.
     Helps in communication with other team members.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+    We are able to combine changes done in separate branches into one.
+    The diagram is a map of commits that are combined.  It is very useful to understand
+        what commits are combined especially since the branches had a common commit.
