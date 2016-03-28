@@ -22,3 +22,7 @@ What is the result of merging two branches together? Why do we represent it in t
     We are able to combine changes done in separate branches into one.
     The diagram is a map of commits that are combined.  It is very useful to understand
         what commits are combined especially since the branches had a common commit.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+    Pros:  Can identify differences easily and address conflicts.
+    Cons:  When changes are drastic and fundamental automatic merging may be slow and tedious.
