@@ -23,3 +23,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
     -I would have to use GoogleDocs or similar app for each document.  Versioning will be very difficult.
     -I could store my files in a cloud drive and ask each contributor to propose and seek permission for each change they do.  Files can then be udpated.
         Commit history and branching possiblity will not be available, therefore we may a need a dedicated person to manage all information.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+    -I would make changes in a separate branch when I am one of many contributors. It helps disconnect my changes from others's work, test it before making pull request.
+        Merging takes place later after those concerned are able to review and approve.
+        I will also create branches when I am not sure if I will be incorporating the changes immediately.
+    -I would make the change in master if I am the authority managing the project and the change is critical.
