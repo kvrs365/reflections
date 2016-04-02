@@ -18,3 +18,8 @@ Describe the differences between forks, clones, and branches. When would you use
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
     -Git status will provide information regarding current state of remote even if we are offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+    -I would have to use GoogleDocs or similar app for each document.  Versioning will be very difficult.
+    -I could store my files in a cloud drive and ask each contributor to propose and seek permission for each change they do.  Files can then be udpated.
+        Commit history and branching possiblity will not be available, therefore we may a need a dedicated person to manage all information.
