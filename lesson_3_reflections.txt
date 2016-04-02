@@ -15,3 +15,6 @@ Describe the differences between forks, clones, and branches. When would you use
     -Branch: Use when deviating from an existing git.  Branch helps us experiment without affecting other branches.
         We can also use it to create versions with variations.
         Branches can be merged whenever necessary and thus this method is very useful for development.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+    -Git status will provide information regarding current state of remote even if we are offline.
